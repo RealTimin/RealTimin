@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=timin123)](https://solved.ac/timin123)
 <!--
 **RealTimin/RealTimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
